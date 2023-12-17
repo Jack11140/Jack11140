@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">
-![python](https://github.com/Jack11140/Jack11140/assets/151929388/a32c24b2-0295-4a3e-a9bb-8ffbd12eff9e)
+![React](https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=react&logoColor=green)
+![React](https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/react?style=for-the-badge&logo=react)
